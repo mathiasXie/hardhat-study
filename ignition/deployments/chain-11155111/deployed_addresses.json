@@ -1,0 +1,7 @@
+{
+  "DeployMxAuctionModule#MxNFT": "0xAf25d8E0C7e47c86c9B6f5865F1951B7569da937",
+  "DeployMxAuctionModule#MxNFTAuction": "0xc1C976462fbC118F5d1270bA3392b2b7049B4B36",
+  "DeployMxAuctionModule#MxToken": "0x35Ec02a266664fDa368C6739cb1f8765740F8F2F",
+  "DeployMxAuctionModule#MxNFTAuctionProxy": "0x9243c75DeC8A892F72736875E90da2Bb58291cce",
+  "DeployMxAuctionModule#MxNFTAuctionInstance": "0x9243c75DeC8A892F72736875E90da2Bb58291cce"
+}
